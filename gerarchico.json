@@ -1,0 +1,63 @@
+{
+ "name": "italia",
+ "children": [
+  {
+   "name": "toscana",
+   "children": [
+    {
+     "name": "livorno",
+     "children": [
+      {"name": "Livorno", "value": 1000},
+      {"name": "Collesalvetti", "value": 500},
+      {"name": "Rosignano", "value": 400},
+      {"name": "Cecina", "value": 300}
+     ]
+    },
+    {
+     "name": "grosseto",
+     "children": [
+      {"name": "grosseto", "value": 900},
+      {"name": "argentario", "value": 500},
+      {"name": "follonica", "value": 1500},
+      {"name": "orbetello", "value": 100}
+     ]
+    },
+    {
+     "name": "lucca",
+     "children": [
+      {"name": "viareggio", "value": 500},
+      {"name": "lucca", "value": 700},
+      {"name": "camaiore", "value": 400},
+      {"name": "stazzema", "value": 200}
+     ]
+    }
+    ]
+  },
+  {
+   "name": "lazio",
+   "children": [
+    {
+     "name": "roma",
+     "children": [
+      {"name": "roma", "value": 2000},
+      {"name": "marino", "value": 200}
+     ]
+    },
+    {
+     "name": "viterbo",
+     "children": [
+      {"name": "viterbo", "value": 1000},
+      {"name": "civita", "value": 100}
+     ]
+    },
+    {
+     "name": "rieti",
+     "children": [
+      {"name": "rieti", "value": 800},
+      {"name": "campagna", "value": 300}
+     ]
+    }
+    ]
+  }
+  ]
+}
